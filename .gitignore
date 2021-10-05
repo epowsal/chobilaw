@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+testbenchdb/
+testdb/
+github/
+orderfilev2_single_test.go
+urllist2.log_norepeat.txt
+peple.com_nodownloadurl.orderfile_err2.log
+fortest_sitelist.txt
+dictionary.reverse.txt
+allsite
+data
+gen_language_xls
+set_fyne_import
+*.log
